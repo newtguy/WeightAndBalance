@@ -1,0 +1,7 @@
+WEIGHT & BALANCE RESULTS
+------------------------
+Phase          CG (in)
+ ------------------------
+Zero Fuel      43.72
+Takeoff        44.24
+Landing        43.96

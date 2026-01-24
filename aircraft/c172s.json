@@ -1,0 +1,13 @@
+{
+  "aircraft": "Cessna 172S",
+  "arms": {
+    "front_pilot": 37.0,
+    "rear_passenger": 73.0,
+    "baggage": 95.0,
+    "fuel": 48.0
+  },
+  "limits": {
+    "cg_forward": 35.0,
+    "cg_aft": 47.3
+  }
+}
